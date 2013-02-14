@@ -18,7 +18,6 @@
 {
     [super viewDidLoad];
     array=[[NSMutableArray alloc]initWithObjects:@"Hello",@"World", nil];
-    NSLog(@"testgit");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
