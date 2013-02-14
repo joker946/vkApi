@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
     array=[[NSMutableArray alloc]initWithObjects:@"Hello",@"World", nil];
+#warning testsomething
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
